@@ -118,13 +118,13 @@ Prompt to evaluate a practice EBP question:
   * Level of influence
   * Character traits - 10 faces of innovation
   * Behavior traits - diffusion of innovations theory
-    *  Innovators, early adopters, early majority, late majority, laggards
+    * Innovators, early adopters, early majority, late majority, laggards
     * 5 critical factors: psychological safety, mutual trust, structure and clarity, meaning, impact
-3. Designate a team leader
-4. Identify impacted groups: include on team
+2. Designate a team leader
+3. Identify impacted groups: include on team
   * Competencies: leader with clear direction, suitable mix if skills, interdisciplinary competencies, interdependence balenced with autonomy, values, enhance intra-team communication, team culture, adequate time and resources, high-quality recommendations, encourage personal development
-5. The first meeting: everyone fully informed
-6. Maintain team engagement and accountability
+4. The first meeting: everyone fully informed
+5. Maintain team engagement and accountability
   * care, connect, coach, contribute, congratulate
 
 ## Chapter 6 Evidence Phase: Introduction to Evidence
