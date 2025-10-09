@@ -109,6 +109,24 @@ Prompt to evaluate a practice EBP question:
 
 ## Chapter 5 The Interprofessional Team
 
+* The EBP Team
+  * Multiple disciplines
+  * Respect goals and values
+ 
+1. Choose team members
+  * Expertise - different skills
+  * Level of influence
+  * Character traits - 10 faces of innovation
+  * Behavior traits - diffusion of innovations theory
+    *  Innovators, early adopters, early majority, late majority, laggards
+    * 5 critical factors: psychological safety, mutual trust, structure and clarity, meaning, impact
+3. Designate a team leader
+4. Identify impacted groups: include on team
+  * Competencies: leader with clear direction, suitable mix if skills, interdisciplinary competencies, interdependence balenced with autonomy, values, enhance intra-team communication, team culture, adequate time and resources, high-quality recommendations, encourage personal development
+5. The first meeting: everyone fully informed
+6. Maintain team engagement and accountability
+  * care, connect, coach, contribute, congratulate
+
 ## Chapter 6 Evidence Phase: Introduction to Evidence
 
 ## Chapter 7 Evidence Phase: The Evidence Search and Screening
