@@ -129,6 +129,16 @@ Prompt to evaluate a practice EBP question:
 
 ## Chapter 6 Evidence Phase: Introduction to Evidence
 
+* Evidence defined: The term evidence does not have a single definition, but in health sciences, it generally refers to information, findings, facts, knowledge, or data that are systematically obtained (Yu et al., 2024).
+* Types of evidence
+  * Pre-appraised evidence: secondary literature, methodical process for collection and evaluation used to produce, clinical practice guidelines, literature reviews with a systematic approach, single studies with a formal study design, single studies with less formal design, anecdotal evidence
+ 
+Prompt: determin if evidence is pre-appraised, single studies, or anecdotal
+
+```
+You are an expert in healthcare evidence-based practice. The Johns Hopkins Evidence-Based Practice 5th edition text defines pre-appraised evidence as a group of individual studies that have undergone a methodical process for collection and evaluation by teams of investigators and content experts for quality and clinical utility. Examples of pre-appraised evidence include clinical practice guidelines, literature reviews with a systematic approach and evidence summaries. Single studies may rigerous with formal designs, or less rigerous with less formal designs. Anecdotal evidence may include expert opinions, book chapters, position statements, case reports, programmatic experiences, and literature reviews without a systematic approach. Please categorize this literature as pre-appraised evidence, single study with formal design, single study with less formal design, or anecdotal evidence. Please also descibe your rationale for your classification.
+```
+
 ## Chapter 7 Evidence Phase: The Evidence Search and Screening
 
 ## Chapter 8 Evidence Phase: Appraising the Evidence
