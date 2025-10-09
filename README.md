@@ -25,7 +25,7 @@
 
 * Differentiating between quality improvement, research, and EBP See Table 2.1 on page 18, Figure 2.1 on page 20
 * Description: The JHEBP Model
-* JHEBP PET Process: Practice Question, Evidence, and Translation See Figure 2.4 on page 27
+* JHEBP PET Process: Practice Question, Evidence, and Translation See Figure 2.4 on page 27, See Appendix A on page 208
 
 1. (Practice Question) Explore and describe the problem
 2. (Practice Question) Develop the problem statement
@@ -54,7 +54,58 @@
 
 ## Chapter 3 Practice Question Phase: The Problem
 
+* Explore the problem (or question)
+  * problem-focused triggers
+  * knowledge-focuesed triggers
+* Describe the problem
+  * Describe in precise terms the perceived gap between what one sees adn what one wants to see.
+  * See table 3.2 starting on page 45
+* Pitfall 1: Approaching with a solution in mind
+* Pitfall 2: Focusing on the symptoms of the problem
+* Pitfall 3: accepting the first problem identified
+* Techniques for conducting a root cause analysis Table 3.4 on page 49
+  * Brainstorming
+  * The 5 whys
+  * Mind Mapping
+  * Ishikawa Fishbone Diagram
+  * Affinity Diagram
+  * Relation Diagram
+* Develop the problem statement See Appendix B on page 212
+
+Prompt to evaluate a problem statement:
+
+```
+
+```
+
 ## Chapter 4 Practice Question Phase: The EBP Question
+
+* Background (broad) questions
+* Foreground (specific) questions
+* PICO (Patient/Population/Problem, Intervention, Comparison, Outcome) questions vs EBP questions
+  * PICO works well for foreground questions
+* EBP questions
+  * EBP works well for background questions or when intervention is unknown
+* Other question development framworks are available. p. 57
+* Broad EBP question
+* Intervention EBP question
+* See Appendix B on page 212
+* Additional Considerations
+  * Addressed by existing literature
+  * If there is little to no literature available, consider conducting a research study
+  * Does the problem or focus align with the organization's priorities?
+ 
+Prompt to evaluate a broad EBP question:
+
+```
+
+```
+
+Prompt to evaluate a practice EBP question:
+
+```
+
+```
 
 ## Chapter 5 The Interprofessional Team
 
@@ -81,6 +132,23 @@
 ## A EBP Project Steps and Overview
 
 ## B Question Development Tool
+
+* What is the local problem?
+* Why is this problem important and relevant?
+* What is the current practice in the EBP team's setting?
+* What data from the EBP team's setting indicate there is a problem?
+* Will this be a broad or intervention EBP question?
+
+* Identify the relevant elements of the EBP question
+  * Population
+  * Setting
+  * Topic or Intervention
+  * Outcomes
+ 
+* Construct the EBP question
+  * Broad: In/among <population or setting>, what are best practices/strategies/interventions for/regarding <topic>?
+  * Intervention: According to evidence, in/among <population or setting>, what is the impact of <intervention> on <outcome>?
+* If needed, revise EBP question after preliminary evidence search/review.
 
 ## C Searching and Screening Tool
 
