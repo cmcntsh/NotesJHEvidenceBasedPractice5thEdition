@@ -141,7 +141,67 @@ You are an expert in healthcare evidence-based practice. The Johns Hopkins Evide
 
 ## Chapter 7 Evidence Phase: The Evidence Search and Screening
 
+* Best-Evidence search
+
+1. Identify elements of the EBP question to search: population, setting, topic, intervention, outcome
+2. Identify resources for pre-appraised evidence: Cochrane Library, JBI, National Institute for Health and Care Excellence (NICE), US Preventive Services Taskforce (USPSTF), Agency for Healthcare Research and Quality (AHRQ), and World Health Organization (WHO), professional organizations (American Academy of Pediatrics, American Heart Association, International Council of Cardiovascular Prevention and Rehabilitation), ECRI (Emergency Care Research Institute) Guidelines Trust, Guideline Central See table 7.2 on page 96
+3. Execute the search
+4. Evaluate the search results
+5. If applicable, conduct a targeted search
+
+* Exhaustive search
+
+1. Determine which databases to search
+2. Build the search - identify key concepts
+3. Build the search - create search strings
+4. Execute the search
+5. When appropriate, apply initial limits or filters
+6. Evaluate, revise, adn refine the search
+7. Document the search
+
+* Systematic literature screening
+
+1. Establish inclusion and exclusion criter for the literature screening
+2. Determine a plan for performing the literature screening
+3. Begin by screening only the title and abstracts produced from the search
+4. Complete full-text screening for all articles that remain after screening titles and abstracts
+5. Document the screening process
+
+* Minimize bias in literature search and screening
+  * Spectrum bias - inclusion/exclusion of specific population
+  * Random error
+  * Search satisficing - finish when something is found
+  * Premature closure
+  * Confirmation bias - rely on sources that confirm one's beliefs
+  * Attribute substitution - oversimplification
+  * Not invented here - focus on own country or area
+ 
+Prompt: Identify key concepts from an EBP question.
+```
+You are an expert in healthcare quality improvement project with extensive expertise in searching for literature. Please help me identify key concepts to forumate search terms for this evidence-based practice question: "<Paste EBP question here in quotes.>" For the "<Name of data source here in quotes>" database.
+```
+
+Prompt: Formulate search term(s) for specific database
+
+```
+You are an expert in healthcare quality improvement project with extensive expertise in searching for literature. Please help me forumate search terms for this evidence-based practice question: "<Paste EBP question here in quotes.>" For the "<Name of data source here in quotes>" database. Please also suggest useful ways to refine the search or other places to search that may be applicable to this EBP question.
+```
+
+Prompt: Screen titles and abstracts and identify articles that answer the EBP question and meet specific inclusion and exclusion criteria
+
+```
+You are an expert in healthcare quality improvement project with extensive expertise in searching for literature. Please help me screen these titles and abstracts and identify items that will answer some aspect of this EBP question: "<Paste the question here in quotes.>" and, in addition, will meet these inclusion criteria: "<State inclusion criteria here in quotes.>" and, in addition, will meet these exclusion criteria: "<State exclusion criteria here in quotes.>" Please prioritize aspects of the EBP question in this order: "<Write terms in order of priority here in quotes.>" Please provide a rationale why you feel each item is a good match to the requirements liste. Please also rate each item on a scale of 1 to 5 with 1 being the items that are the weakest match to the criteria listed and 5 being the strongest match to the criteria listed. Please list the items you suggest in descending order of rating, starting with the items rated 5 and ending with items rated 1.
+```
+
 ## Chapter 8 Evidence Phase: Appraising the Evidence
+
+* Overview: 1) determine level of support for decision making, 2) assess the quality of evidence
+
+Prompt: Rate the level of support for decision-making and appraise the quality
+
+```
+You are an expert in healthcare quality improvement project with extensive expertise in evaluating literature. The Johns Hopkins Evidence-Based Practice 5th edition text defines pre-appraised evidence as a group of individual studies that have undergone a methodical process for collection and evaluation by teams of investigators and content experts for quality and clinical utility. Examples of pre-appraised evidence include clinical practice guidelines, literature reviews with a systematic approach and evidence summaries. Single studies may rigerous with formal designs may be described with the terms (randomized control trial, cluster randomized control trial, comparative effectiveness research, clinical trial, cross-over). Less rigerous studies with less formal designs may be indicated by the terms (time series design, pretest/posttest, case-control)). Anecdotal evidence may include expert opinions, book chapters, position statements, case reports, programmatic experiences, and literature reviews without a systematic approach and may be described with the terms (cohort, predictive modeling, tool validation, descriptive, correlational, case series, prevalence, natural experiment, retrospective, phenomenology, ethnography, grounded theory, docus group, thematic). Please categorize this literature as pre-appraised evidence, single study with formal design, single study with less formal design, or anecdotal evidence. Please also descibe your rationale for your classification. In addition, please rate the level of support for decision-making. The Johns Hopkins Evidence-Based Practice 5th edition text states the pre-appraised evidence is rated as "independent", that single studies with a formal design that includes controlled trials with or without randomization are rated as "strong", that single studies with a formal study design that includes interventional studies without control or randomization and observational designs are rated as "moderate", and that anecdotal evidence is rated as "limited". In addition, if there is a formal study design, please state what it is. In addition, please rate the quality of the study as "adequate" or "inadequate" to inform the EBP project.
+```
 
 ## Chapter 9 Evidence Phase: Summary, Synthesis, and Best-Evidence Recommendations
 
