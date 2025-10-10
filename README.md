@@ -205,15 +205,55 @@ You are an expert in healthcare quality improvement project with extensive exper
 
 ## Chapter 9 Evidence Phase: Summary, Synthesis, and Best-Evidence Recommendations
 
+* Evidence summary (not opinions)
+* See Best-Evidence Summary Tool Appendix G1 & Individual Evidence Summary Tool Appendix G2
+* Create table
+* Give all team members access
+* Organization/Preparation
+* Synthesis
+* See Summary, Synthesis, & Best-Evidence Recommendation Tool Appendix H
+
+1. Review individual evidence summary tool as a team
+2. Review strong support evidence, note patterns and themes
+3. record number of sources on table
+4. group discussion of pertinent findings
+5. record succinct statements that synthesize information and answer EBP question (note articles that support each statement)
+6. Repeat 2-5 for moderate and limited support evidence
+7. Analyze any additional information needed
+
+* Best-Evidence Recommendations: high certainty, reasonable certainty, reasonable-to-low certainty, low certainty
+
 ## Chapter 10 Translation Phase: Translation
+
+* Risk
+* Fit - how does change align with existing practices, norms, values, goals, skills
+* Feasibility - doable, barriers, readiness for change, material resources, support from decision-makers, budget implications, impacted individuals
+* Acceptibility - agreeable, reasonable
+* Tools for organizational considerations - Quality Function Deployment, COM-B/BCW, TELOS
+* Setting-specific recommendations
 
 ## Chapter 11 Translation Phase: Implementation
 
+* Implementation framework - PDSA, DMAIC, AHRQ Knowledge Transfer, Knowledge-to-Action, PARIHS, QUERI, RE-AIM
+* Measure performance - SMART, Structure, Process, Outcome
+* Engage, Educate, Execute, Evaluate
+* Implementation action plan - A3, Project Timeline, WBS
+
 ## Chapter 12 Ongoing Considerations: Communication and Dissemination
+
+* Dissemination plan - purpose, message, audience, timing, method
+* Posters, Articles
 
 # Part 3 Exemplars
 
 ## Chapter 13 Exemplars
+
+* Strategies in promoting and increasing certification among perianesthesia nurses
+* Manila doctors hospital evidence-based culture of nurse retention
+* RN-driven high flow nasal canula guidelines: Using evidence to change practice management
+* Set sail for home: A nurse-driven initiative promoting early ambulation in post-operative neurosurgical patients
+* Reducing nurse burden to limited care partner visitation
+* Transforming the landscape of gender-affirming care for transgender youth through acute rehabilitation provider empowerment
 
 # Part 4 Appendices
 
@@ -392,7 +432,21 @@ In addition, after answering all the question, please answer this question and p
 
 ## G1 Best-Evidence Summary Tool
 
+Prompt: create evidence table
+
+```
+You are an expert in healthcare quality improvement project with extensive expertise in evaluating literature. The Johns Hopkins Evidence-Based Practice 5th edition text defines pre-appraised evidence as a group of individual studies that have undergone a methodical process for collection and evaluation by teams of investigators and content experts for quality and clinical utility. I'm trying to answer this evidence-based practice question: "<Paste EBP question here in quotes.>" I'm completing Appendix G1 Best-Evidence Summary Tool and creating a table of evidence. Please create a table that uses the following headings and includes a row for the information indicated in each column heading suitable to copy and paste into a spreadsheet for the article. Here are the headings for the table columns: "(Author, date, title of article), (type of evidence), (topic or intervention), (population), (setting), (recommendations that answer the EBP question), (population, size, and setting), (intervention), (Findings that help answer the EBP question), (measures used), (limitations), (moderate or strong support for decision-making), (methodology [select from quantitative, qualitative, mixed-methods]), (design [select from randomized controlled trial, quasi-experimental, interventional, observational, descriptive, correlational]), (timing [select from prospective, retrospective, cross-sectional, longitudinal])"
+```
+
 ## G2 Individual Evidence Summary Tool
+
+Prompt: create evidence table
+
+```
+You are an expert in healthcare quality improvement project with extensive expertise in evaluating literature. The Johns Hopkins Evidence-Based Practice 5th edition text defines individual evidence as an individual study with a strong formal study design, an individual study with a weaker less formal study design, or anecdotal evidence. I'm trying to answer this evidence-based practice question: "<Paste EBP question here in quotes.>" I'm completing Appendix G2 Individual Evidence Summary Tool and creating a table of evidence. Please create a table that uses the following headings and includes a row for the information indicated in each column heading suitable to copy and paste into a spreadsheet for the article. Here are the headings for the table columns: "(Author, date, title of article), (type of evidence), (topic or intervention), (population), (setting), (findings that help answer the EBP question), (limitations), (level of support for decision-making), (measures used), (reviews [select from systematic, integrative, rapid, umbrella, scoping, critical, literature, not applicable]), (methodology [select from quantitative, qualitative, mixed-methods]), (design [select from randomized controlled trial, quasi-experimental, interventional, observational, descriptive, correlational]), (timing [select from prospective, retrospective, cross-sectional, longitudinal]), (other [select from expert opinion, book chapter, position statement, programatic experience])"
+```
+
+
 
 ## H Summary, Synthesis, & Best-Evidence Recommendations Tool
 
