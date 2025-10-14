@@ -2,6 +2,7 @@
 
 * Bissett, K., Ascenzi, J., & Whalen, M. (2025). Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model & guidelines (Fifth edition). Sigma Theta Tau International.
 * Link to text online: https://research-ebsco-com.ezproxy.lib.utah.edu/c/qiotxo/ebook-viewer/pdf/d4ehziyb6z/page/pp_C1?auth-callid=e4441f0c-adae-411b-8bd6-45951fb08671
+* Leading Evidence-Based Practice Webinar Series https://www.ijhn-education.org/node/19947
 * Notes on 4th Edition: https://github.com/cmcntsh/NotesJHEvidenceBasedPracticeText
 
 # Part 1 Evidence-Based Practice Overview
