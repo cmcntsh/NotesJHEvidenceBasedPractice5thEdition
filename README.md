@@ -88,13 +88,61 @@ Prompt to evaluate a problem statement:
 * EBP questions
   * EBP works well for background questions or when intervention is unknown
 * Other question development framworks are available. p. 57
-* Broad EBP question
-* Intervention EBP question
+* Broad EBP question p. 58
+  * Broad EBP questions cast a wide net.
+  * Broad EBP questions align the topic, population, and setting
+  * Population: types of patients, clients, healthcare providers, people; consider attributes such as age, gender, symptoms, diagnosis, or roles
+  * Setting: place, environment
+  * Topic: problem, issue
+  * A broad question does not include a specific intervention.
+  * Question Template: In/among [population and/or setting], what are the best [practices/strategies/interventions] for/regarding [topic]?
+  * Example: In elderly patients on a psychiatric unit, what are the best practices for safe wandering?
+  * Example: Among children receiving injections in the outpatient setting, what are the best practices regarding anxiety management?
+* Intervention EBP question p. 59
+  * Intervention EBP questions provide more precise knowledge to inform decisions or actions.
+  * Interventions may be based on gaps in practice, feasibility, or interventions that have greater support for a practice change.
+  * Intervention EBP questions often start with "According to the evidence..." in order to differentiate them from research questions.
+  * Intervention EBP questions include the same elements as a broad EBP question, with the addition of specifying an intervention and often an outcome.
+  * Intervention(s): treatment, intervention, or process
+  * Outcome: measures that indicate the effect of the intervenion in achieving the desired change, improvement, or outcome.
 * See Appendix B on page 212
 * Additional Considerations
   * Addressed by existing literature
   * If there is little to no literature available, consider conducting a research study
   * Does the problem or focus align with the organization's priorities?
+ 
+Prompt to get broad EBP questions based on a problem description:
+
+```
+Role: You are an expert in evidence-based practice in healthcare.
+Context: The Johns Hopkins Evidence-Based Practice model has evolved. Previously, Dang, D., Dearholt, S. L., Bissett, K., Whalen, M., & Ascenzi, J. (2021). Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model & guidelines (Fourth edition). Sigma Theta Tau International. focused on background (broad) and foreground (specific) questions and had implementers formulate PICO questions. The most recent version of the Johns Hopkins Evidence-Based Practice text, Bissett, K., Ascenzi, J., & Whalen, M. (2025). Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model & guidelines (Fifth edition). Sigma Theta Tau International., now focuses on broad EPB questions and intervention EBP questions instead of background and foreground questions. Broad EBP questions cast a wide net. Broad EBP questions align the topic, population, and setting. Population refers to types of patients, clients, healthcare providers, people; consider attributes such as age, gender, symptoms, diagnosis, or roles. Setting refers to place or environment. Topic refers to the problem or issue. A broad question does not include a specific intervention. The 5th edition of the JHEBP text provides a broad question template.
+Broad Question Template: In/among [population and/or setting], what are the best [practices/strategies/interventions] for/regarding [topic]?
+Broad EBP Question Example: In elderly patients on a psychiatric unit, what are the best practices for safe wandering?
+Broad EBP Question Example: Among children receiving injections in the outpatient setting, what are the best practices regarding anxiety management?
+Broad EBP Question Example: Among physical therapist preceptors in a community hospital, what are best practices regarding training programs?
+Broad EBP Question Example: Among physical therapist preceptors in a community hospital, what are best practices regarding program orientation?
+Broad EBP Question Example: Among physical therapist preceptors in a community hospital, what are best practices regarding essential competencies?
+Broad EBP Question Example: Among physical therapist preceptors in a community hospital, what are best practices regarding ongoing support programs?
+Based on the problem description provided, suggest several broad evidence-based practice questions.
+In addition, please list several interventions that may be applicable to each broad EBP question you suggest.
+Here is the problem description: "<Paste problem description here.>"
+```
+
+Prompt to get practice EBP questions based on a problem description:
+
+```
+Role: You are an expert in evidence-based practice in healthcare.
+Context: The Johns Hopkins Evidence-Based Practice model has evolved. Previously, Dang, D., Dearholt, S. L., Bissett, K., Whalen, M., & Ascenzi, J. (2021). Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model & guidelines (Fourth edition). Sigma Theta Tau International. focused on background (broad) and foreground (specific) questions and had implementers formulate PICO questions. The most recent version of the Johns Hopkins Evidence-Based Practice text, Bissett, K., Ascenzi, J., & Whalen, M. (2025). Johns Hopkins evidence-based practice for nurses and healthcare professionals: Model & guidelines (Fifth edition). Sigma Theta Tau International., now focuses on broad EPB questions and intervention EBP questions instead of background and foreground questions. Intervention EBP questions provide more precise knowledge to inform decisions or actions. Interventions may be based on gaps in practice, feasibility, or interventions that have greater support for a practice change. Intervention EBP questions include the same elements as a broad EBP question, with the addition of specifying an intervention and often an outcome. Population refers to types of patients, clients, healthcare providers, people; consider attributes such as age, gender, symptoms, diagnosis, or roles. Setting refers to place or environment. Topic refers to the problem or issue. Intervention refers to treatment, intervention, or process. Outcome refers to measures that indicate the effect of the intervenion in achieving the desired change, improvement, or outcome. The 5th edition of the JHEBP text provides an inttervention question template.
+Intervention Question Template: According to the evidence, in/among [population and/or setting], what is the impact of [intervention] on [outcome]?
+Intervention EBP Question Example: According to the evidence, among pediatric patients receiving injections in the outpatient setting, what is the effect of virtual reality on levels of anxiety?
+Intervention EBP Question Example: According to the evidence, in the pediatric ICU, what is the impact of changing electrodes daily on the amount of nuisance alarms?
+Comparison intervention EBP Question Template: According to the evidence, in/among [population and/or setting], what is the impact of [intervention] compared to [intervention] on [outcome]?
+Comparison intervention EBP Question Example: According to the evidence, in post-operative adult patients, what is the impact of coughing, deep breathing, and early ambulation compared to incentive spirometry on post-operative atelectasis rates?
+Comparison Intervention EBP Question Example: According to the evidence, among pediatric patients receiving injections in the outpatient setting, what is the effect of virtual reality vs. gradual exposure on levels of anxiety?
+Based on the problem description provided, suggest several intervention evidence-based practice questions using interventions you suggest based on the problem description.
+In addition, please list a justification why you feel the intervention is worth considering for each question you suggest.
+Here is the problem description: "<Paste problem description here.>"
+```
  
 Prompt to evaluate a broad EBP question:
 
